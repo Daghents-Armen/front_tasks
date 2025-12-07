@@ -1,0 +1,46 @@
+#root{
+  padding: 20px;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+
+}
+
+.list img{
+  width: 200px;
+  height: 250px;
+  object-fit: cover;
+}
+
+.list button{
+  display: block;
+  outline: none;
+  margin: 10px;
+}
+
+.list button:hover{
+  transition: 0.7s;
+  background-color: blue;
+}
+
+table, th, tr, td{
+  border: 1px solid gray;
+  padding: 15px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table button{
+  outline: none;
+  margin: 10px;
+}
+
+table button:hover{
+  transition: 0.7s;
+  background-color: blue;
+}
