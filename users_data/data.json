@@ -1,0 +1,24 @@
+{
+    "users": [
+        {"id": 100, "name": "Nick", "gender": "male"},
+        {"id": 101, "name": "Anahit", "gender": "woman"},
+        {"id": 102, "name": "Karen", "gender": "male"},
+        {"id": 103, "name": "Emma", "gender": "woman"},
+        {"id": 104, "name": "Ando", "gender": "male"},
+        {"id": 105, "name": "Nano", "gender": "woman"},
+        {"id": 106, "name": "Gev", "gender": "male"},
+        {"id": 107, "name": "Mari", "gender": "woman"},
+        {"id": 108, "name": "Edgar", "gender": "male"},
+        {"id": 109, "name": "Varduhi", "gender": "woman"},
+        {"id": 110, "name": "Dave", "gender": "male"},
+        {"id": 112, "name": "Sos", "gender": "male"},
+        {"id": 111, "name": "Meri", "gender": "woman"},
+        {"id": 114, "name": "Armen", "gender": "male"},
+        {"id": 113, "name": "Aida", "gender": "woman"},
+        {"id": 115, "name": "Anna", "gender": "woman"},
+        {"id": 116, "name": "James", "gender": "male"},
+        {"id": 117, "name": "Alice", "gender": "woman"},
+        {"id": 118, "name": "John", "gender": "male"},
+        {"id": 119, "name": "Ruzan", "gender": "woman"}
+    ]
+}
